@@ -1,0 +1,2 @@
+# emoji-nonfitication
+Slackに絵文字が追加されたらメッセージ送信するLambda
