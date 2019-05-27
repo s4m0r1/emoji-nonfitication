@@ -1,3 +1,5 @@
+[![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
+
 # emoji-nonfitication
 Slackに絵文字が追加されたらメッセージ送信するLambda
 
